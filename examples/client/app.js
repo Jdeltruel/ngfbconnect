@@ -42,7 +42,7 @@ angular.module('MyApp', ['ngResource', 'ngMessages', 'ui.router', 'mgcrea.ngStra
     $urlRouterProvider.otherwise('/');
 
     $authProvider.facebook({
-      clientId: '657854390977827'
+      clientId: '10204673544303217'
     });
 
     $authProvider.google({
